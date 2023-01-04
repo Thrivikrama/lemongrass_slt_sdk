@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSDOK_SDATX</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZSDOK_SDATX</DOMNAME>
+    <HEADLEN>25</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Line for binary document contents, length for upload</DDTEXT>
+    <REPTEXT>Document contents</REPTEXT>
+    <SCRTEXT_S>Contents</SCRTEXT_S>
+    <SCRTEXT_M>Doc. contents</SCRTEXT_M>
+    <SCRTEXT_L>Document contents</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>1</LANGU>
+    <LANGU>2</LANGU>
+    <LANGU>3</LANGU>
+    <LANGU>4</LANGU>
+    <LANGU>5</LANGU>
+    <LANGU>6</LANGU>
+    <LANGU>7</LANGU>
+    <LANGU>8</LANGU>
+    <LANGU>9</LANGU>
+    <LANGU>A</LANGU>
+    <LANGU>B</LANGU>
+    <LANGU>C</LANGU>
+    <LANGU>D</LANGU>
+    <LANGU>F</LANGU>
+    <LANGU>G</LANGU>
+    <LANGU>H</LANGU>
+    <LANGU>I</LANGU>
+    <LANGU>J</LANGU>
+    <LANGU>K</LANGU>
+    <LANGU>L</LANGU>
+    <LANGU>M</LANGU>
+    <LANGU>N</LANGU>
+    <LANGU>O</LANGU>
+    <LANGU>P</LANGU>
+    <LANGU>Q</LANGU>
+    <LANGU>R</LANGU>
+    <LANGU>S</LANGU>
+    <LANGU>T</LANGU>
+    <LANGU>U</LANGU>
+    <LANGU>V</LANGU>
+    <LANGU>W</LANGU>
+    <LANGU>X</LANGU>
+    <LANGU>Y</LANGU>
+    <LANGU>c</LANGU>
+    <LANGU>d</LANGU>
+    <LANGU>묩</LANGU>
+    <LANGU>뱋</LANGU>
+    <LANGU>쁩</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>1</DDLANGUAGE>
+     <DDTEXT>用于上载的二进制文档内容、长度的行</DDTEXT>
+     <REPTEXT>文档内容</REPTEXT>
+     <SCRTEXT_S>内容</SCRTEXT_S>
+     <SCRTEXT_M>凭证内容</SCRTEXT_M>
+     <SCRTEXT_L>文档内容</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>2</DDLANGUAGE>
+     <DDTEXT>บรรทัดสำหรับเนื้อหาเอกสารไบนารี,ความยาวสำหรับอัพโหลด</DDTEXT>
+     <REPTEXT>เนื้อหาในเอกสาร</REPTEXT>
+     <SCRTEXT_S>เนื้อหา</SCRTEXT_S>
+     <SCRTEXT_M>เนื้อหาเอกสาร</SCRTEXT_M>
+     <SCRTEXT_L>เนื้อหาในเอกสาร</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>3</DDLANGUAGE>
+     <DDTEXT>이진 문서 내용 라인, 업로드 시 길이</DDTEXT>
+     <REPTEXT>문서 내용</REPTEXT>
+     <SCRTEXT_S>내용</SCRTEXT_S>
+     <SCRTEXT_M>문서 내용</SCRTEXT_M>
+     <SCRTEXT_L>문서 내용</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>4</DDLANGUAGE>
+     <DDTEXT>Linie pt.conţinut doc.binar, lungime pt.încărcare</DDTEXT>
+     <REPTEXT>Conţinut document</REPTEXT>
+     <SCRTEXT_S>Conţinut</SCRTEXT_S>
+     <SCRTEXT_M>Conţinut doc.</SCRTEXT_M>
+     <SCRTEXT_L>Conţinut document</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>5</DDLANGUAGE>
+     <DDTEXT>Vrstica za binarno vsebino dokumenta, dolžina za nalaganje</DDTEXT>
+     <REPTEXT>Vsebina dokumentov</REPTEXT>
+     <SCRTEXT_S>Vsebina</SCRTEXT_S>
+     <SCRTEXT_M>Vsebina dokum.</SCRTEXT_M>
+     <SCRTEXT_L>Vsebina dokumentov</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>6</DDLANGUAGE>
+     <DDTEXT>Redak za sadržaje binar.dok., duljina za prij.pod.na posluž.</DDTEXT>
+     <REPTEXT>Sadržaj dokumenta</REPTEXT>
+     <SCRTEXT_S>Sadržaj</SCRTEXT_S>
+     <SCRTEXT_M>Sadržaj dokum.</SCRTEXT_M>
+     <SCRTEXT_L>Sadržaj dokumenta</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>7</DDLANGUAGE>
+     <DDTEXT>Baris untuk kandungan dokumen perduaan untuk muat turun</DDTEXT>
+     <REPTEXT>Kandungan dokumen</REPTEXT>
+     <SCRTEXT_S>Kandungan</SCRTEXT_S>
+     <SCRTEXT_M>Kndungan dkumen</SCRTEXT_M>
+     <SCRTEXT_L>Kandungan dokumen</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>8</DDLANGUAGE>
+     <DDTEXT>Рядок для вмісту двійкового документа, довжина при вивант.</DDTEXT>
+     <REPTEXT>Вміст документа</REPTEXT>
+     <SCRTEXT_S>Вміст</SCRTEXT_S>
+     <SCRTEXT_M>Вміст документа</SCRTEXT_M>
+     <SCRTEXT_L>Вміст документа</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>9</DDLANGUAGE>
+     <DDTEXT>Rida binaardokumendi sisu jaoks, pikkus nagu üleslaadimisel</DDTEXT>
+     <REPTEXT>Dokumendi sisu</REPTEXT>
+     <SCRTEXT_S>Sisu</SCRTEXT_S>
+     <SCRTEXT_M>Dokum. sisu</SCRTEXT_M>
+     <SCRTEXT_L>Dokumendi sisu</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>A</DDLANGUAGE>
+     <DDTEXT>سطر محتويات مستند مزدوج, طول للتحميل</DDTEXT>
+     <REPTEXT>محتويات المستند</REPTEXT>
+     <SCRTEXT_S>المحتويات</SCRTEXT_S>
+     <SCRTEXT_M>محتويات مستند</SCRTEXT_M>
+     <SCRTEXT_L>محتويات المستند</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>B</DDLANGUAGE>
+     <DDTEXT>שורה לתכני מסמך בינארי, אורך לטעינה</DDTEXT>
+     <REPTEXT>תכני מסמך</REPTEXT>
+     <SCRTEXT_S>תכנים</SCRTEXT_S>
+     <SCRTEXT_M>תכני מסמך</SCRTEXT_M>
+     <SCRTEXT_L>תכני מסמך</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>C</DDLANGUAGE>
+     <DDTEXT>řádka pro binární obsah dokumentu, délka pro upload</DDTEXT>
+     <REPTEXT>Obsah dokumentu</REPTEXT>
+     <SCRTEXT_S>Obsah</SCRTEXT_S>
+     <SCRTEXT_M>Obsah dokumentu</SCRTEXT_M>
+     <SCRTEXT_L>Obsah dokumentu</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Zeile für binären Dokumentinhalt, Länge für Upload</DDTEXT>
+     <REPTEXT>Dokumentinhalt</REPTEXT>
+     <SCRTEXT_S>Inhalt</SCRTEXT_S>
+     <SCRTEXT_M>Dokumentinhalt</SCRTEXT_M>
+     <SCRTEXT_L>Dokumentinhalt</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>F</DDLANGUAGE>
+     <DDTEXT>Ligne pour contenu du document (données binaires)</DDTEXT>
+     <REPTEXT>Contenu du document</REPTEXT>
+     <SCRTEXT_S>Contenu</SCRTEXT_S>
+     <SCRTEXT_M>Contenu doc.</SCRTEXT_M>
+     <SCRTEXT_L>Contenu du document</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>G</DDLANGUAGE>
+     <DDTEXT>Γραμμή για δυαδικά περιεχόμενα εγγράφου, μήκος για φόρτωση</DDTEXT>
+     <REPTEXT>Περιεχόμενα Εγγραφής</REPTEXT>
+     <SCRTEXT_S>Περιεχόμ.</SCRTEXT_S>
+     <SCRTEXT_M>Περ.εγγραφ.</SCRTEXT_M>
+     <SCRTEXT_L>Περιεχόμενα Εγγραφής</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>H</DDLANGUAGE>
+     <DDTEXT>Sor bináris dokumentumtartalomhoz, hossz az uploadhoz</DDTEXT>
+     <REPTEXT>Dokumentum tartalma</REPTEXT>
+     <SCRTEXT_S>Tartalom</SCRTEXT_S>
+     <SCRTEXT_M>Dok. tartalma</SCRTEXT_M>
+     <SCRTEXT_L>Dokumentum tartalma</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>I</DDLANGUAGE>
+     <DDTEXT>Riga per contenuto doc. binario, lunghezza come per upload</DDTEXT>
+     <REPTEXT>Contenuto documento</REPTEXT>
+     <SCRTEXT_S>Contenuto</SCRTEXT_S>
+     <SCRTEXT_M>Contenuto doc.</SCRTEXT_M>
+     <SCRTEXT_L>Contenuto documento</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>J</DDLANGUAGE>
+     <DDTEXT>バイナリ文書内容の行、アップロード用の長さ</DDTEXT>
+     <REPTEXT>文書内容</REPTEXT>
+     <SCRTEXT_S>内容</SCRTEXT_S>
+     <SCRTEXT_M>文書内容</SCRTEXT_M>
+     <SCRTEXT_L>文書内容</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>K</DDLANGUAGE>
+     <DDTEXT>Linie for binært dokumentindhold, længde für upload</DDTEXT>
+     <REPTEXT>Dokumentindhold</REPTEXT>
+     <SCRTEXT_S>Indhold</SCRTEXT_S>
+     <SCRTEXT_M>Dokumentindhold</SCRTEXT_M>
+     <SCRTEXT_L>Dokumentindhold</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>L</DDLANGUAGE>
+     <DDTEXT>Linia dla binarnej zawart. dok., dług. dla odczytu</DDTEXT>
+     <REPTEXT>Zawartość dokumentu</REPTEXT>
+     <SCRTEXT_S>Zawartość</SCRTEXT_S>
+     <SCRTEXT_M>Zawartość dok.</SCRTEXT_M>
+     <SCRTEXT_L>Zawartość dokumentu</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>M</DDLANGUAGE>
+     <DDTEXT>上傳用的二進位文件內容細項、長度</DDTEXT>
+     <REPTEXT>文件內容</REPTEXT>
+     <SCRTEXT_S>內容</SCRTEXT_S>
+     <SCRTEXT_M>文件內容</SCRTEXT_M>
+     <SCRTEXT_L>文件內容</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>N</DDLANGUAGE>
+     <DDTEXT>Regel voor binaire documentinhoud, lengte voor upload</DDTEXT>
+     <REPTEXT>Documentinhoud</REPTEXT>
+     <SCRTEXT_S>Inhoud</SCRTEXT_S>
+     <SCRTEXT_M>Documentinhoud</SCRTEXT_M>
+     <SCRTEXT_L>Documentinhoud</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>O</DDLANGUAGE>
+     <DDTEXT>Linje for binært dokumentinnhold, lengde for opplasting</DDTEXT>
+     <REPTEXT>Dokumentinnhold</REPTEXT>
+     <SCRTEXT_S>Innhold</SCRTEXT_S>
+     <SCRTEXT_M>Dokumentinnhold</SCRTEXT_M>
+     <SCRTEXT_L>Dokumentinnhold</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Linha p/conteúdo binário documento, comprimento p/Upload</DDTEXT>
+     <REPTEXT>Conteúdo documento</REPTEXT>
+     <SCRTEXT_S>Conteúdo</SCRTEXT_S>
+     <SCRTEXT_M>Conteúdo doc.</SCRTEXT_M>
+     <SCRTEXT_L>Conteúdo documento</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>Q</DDLANGUAGE>
+     <DDTEXT>Riadok pre binárny obsah dokumentu, dĺžka pre upload</DDTEXT>
+     <REPTEXT>Obsah dokumentu</REPTEXT>
+     <SCRTEXT_S>Obsah</SCRTEXT_S>
+     <SCRTEXT_M>Obsah dokumentu</SCRTEXT_M>
+     <SCRTEXT_L>Obsah dokumentu</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Строка для БинарнДокументСодерж, длина для загрузки</DDTEXT>
+     <REPTEXT>Содержимое документа</REPTEXT>
+     <SCRTEXT_S>Содержимое</SCRTEXT_S>
+     <SCRTEXT_M>Содержимое док.</SCRTEXT_M>
+     <SCRTEXT_L>Содержимое документа</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Línea para contenido doc.binario, longuitud como en upload</DDTEXT>
+     <REPTEXT>Contenido documento</REPTEXT>
+     <SCRTEXT_S>Contenido</SCRTEXT_S>
+     <SCRTEXT_M>Contenido doc.</SCRTEXT_M>
+     <SCRTEXT_L>Contenido docum.</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>T</DDLANGUAGE>
+     <DDTEXT>İkili doküman içeriği için satır, yukarı yükleme iç.uzunluk</DDTEXT>
+     <REPTEXT>Doküman içeriği</REPTEXT>
+     <SCRTEXT_S>İçerik</SCRTEXT_S>
+     <SCRTEXT_M>Doküman içeriği</SCRTEXT_M>
+     <SCRTEXT_L>Doküman içeriği</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>U</DDLANGUAGE>
+     <DDTEXT>Rivi binaaria asiakirjasisältöä varten, pituus puhur. varten</DDTEXT>
+     <REPTEXT>Asiakirjan sisältö</REPTEXT>
+     <SCRTEXT_S>Sisältö</SCRTEXT_S>
+     <SCRTEXT_M>Asiakirj. sis.</SCRTEXT_M>
+     <SCRTEXT_L>Asiakirjan sisältö</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>V</DDLANGUAGE>
+     <DDTEXT>Rad för binärt dokumentinnehåll, längd för inläsning</DDTEXT>
+     <REPTEXT>Dokumentinnehåll</REPTEXT>
+     <SCRTEXT_S>Innehåll</SCRTEXT_S>
+     <SCRTEXT_M>Dok.innehåll</SCRTEXT_M>
+     <SCRTEXT_L>Dokumentinnehåll</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>W</DDLANGUAGE>
+     <DDTEXT>Ред за съдържание на двоичен документ, дължина за зареждане</DDTEXT>
+     <REPTEXT>Съдържание на документ</REPTEXT>
+     <SCRTEXT_S>Съдържания</SCRTEXT_S>
+     <SCRTEXT_M>Съдържание док.</SCRTEXT_M>
+     <SCRTEXT_L>Съдържание документ</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>X</DDLANGUAGE>
+     <DDTEXT>Dvejetainio dokumento turinio eilutė, įkėlimo ilgis</DDTEXT>
+     <REPTEXT>Dokumento turinys</REPTEXT>
+     <SCRTEXT_S>Turinys</SCRTEXT_S>
+     <SCRTEXT_M>Dok. turinys</SCRTEXT_M>
+     <SCRTEXT_L>Dokumento turinys</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>Y</DDLANGUAGE>
+     <DDTEXT>Bināra dokumenta satura rinda, augšupielādes garums</DDTEXT>
+     <REPTEXT>Dokumenta saturs</REPTEXT>
+     <SCRTEXT_S>Saturs</SCRTEXT_S>
+     <SCRTEXT_M>Dok. saturs</SCRTEXT_M>
+     <SCRTEXT_L>Dokumenta saturs</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>c</DDLANGUAGE>
+     <DDTEXT>Línia de contingut document binari, llargada p.càrrega</DDTEXT>
+     <REPTEXT>Contingut del document</REPTEXT>
+     <SCRTEXT_S>Contingut</SCRTEXT_S>
+     <SCRTEXT_M>Contingut docu.</SCRTEXT_M>
+     <SCRTEXT_L>Contingut del docum.</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>d</DDLANGUAGE>
+     <DDTEXT>Red za binarni sadržaj dokumenta, dužina za prenos na server</DDTEXT>
+     <REPTEXT>Sadržaj dokumenta</REPTEXT>
+     <SCRTEXT_S>Sadržaj</SCRTEXT_S>
+     <SCRTEXT_M>Sadržaj dok.</SCRTEXT_M>
+     <SCRTEXT_L>Sadržaj dokumenta</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>묩</DDLANGUAGE>
+     <DDTEXT>बाइनरी दस्तावेज़ सामग्रियों के लिए पंक्ति, अपलोड हेतु लंबाई</DDTEXT>
+     <REPTEXT>दस्तावेज़ सामग्रियां</REPTEXT>
+     <SCRTEXT_S>सामग्रियां</SCRTEXT_S>
+     <SCRTEXT_M>दस्तावेज़ साम.</SCRTEXT_M>
+     <SCRTEXT_L>दस्तावेज़ सामग्रियां</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>뱋</DDLANGUAGE>
+     <DDTEXT>Екілік құжат мазмұндарына арн.жол, жүктеп алуға арн.ұзындық</DDTEXT>
+     <REPTEXT>Құжат мазмұндары</REPTEXT>
+     <SCRTEXT_S>Мазмұн</SCRTEXT_S>
+     <SCRTEXT_M>Құжат мазмұны</SCRTEXT_M>
+     <SCRTEXT_L>Құжат мазмұндары</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>쁩</DDLANGUAGE>
+     <DDTEXT>Dòng cho n.dung tài liệu nhị phân, độ dài để tải lên</DDTEXT>
+     <REPTEXT>Nội dung chứng từ</REPTEXT>
+     <SCRTEXT_S>Nội dung</SCRTEXT_S>
+     <SCRTEXT_M>N.dung c.từ</SCRTEXT_M>
+     <SCRTEXT_L>Nội dung chứng từ</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
